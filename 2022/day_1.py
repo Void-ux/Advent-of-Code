@@ -1,4 +1,4 @@
-with open('day_1.txt', 'r') as file:
+with open('2022/day_1.txt', 'r') as file:
     content = file.read()
 
 elves = content.split('\n\n')
